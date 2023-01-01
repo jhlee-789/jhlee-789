@@ -18,4 +18,4 @@
 ![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 
 ## 📧&nbsp;E-mail
-![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white)
+jaehyunlee789@gmail.com 
