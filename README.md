@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=200&text=JAEHYUN%20LEE&fontAlign=60&stroke=00FF00)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=200&text=JAEHYUN%20LEE&fontAlign=50&stroke=00FF00)
 ## 🧑‍💻&nbsp;language 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white)
