@@ -1,21 +1,31 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=200&text=JAEHYUN%20LEE&fontAlign=50&stroke=00FF00)
-## 🧑‍💻&nbsp;language 
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/MicrosoftSQLServer-CC2927.svg?&style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white)
-
-## 🔧&nbsp;tools
-![MicrosoftExcel](https://img.shields.io/badge/MicrosoftExcel-217346.svg?&style=for-the-badge&logo=MicrosoftExcel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?&style=for-the-badge&logo=Tableau&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
-![MicrosoftPowerPoint](https://img.shields.io/badge/MicrosoftPowerPoint-B7472A.svg?&style=for-the-badge&logo=MicrosoftPowerPoint&logoColor=white)
-![GoogleAnalytics](https://img.shields.io/badge/GoogleAnalytics-E37400.svg?&style=for-the-badge&logo=GoogleAnalytics&logoColor=white)
-
-## 🖥️&nbsp;IDE
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB.svg?&style=for-the-badge&logo=RStudio&logoColor=white)
-![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white)
-
-## 📧&nbsp;E-mail
+![header](https://capsule-render.vercel.app/api?type=soft&color=000000&height=200&text=Welcome&desc=Jaehyun%20Lee's%20GitHub%20Profile&descAlign=60&descSize=23&&descAlignY=71&fontAlign=50&fontColor=BFFFFF)
+## 📝&nbsp;CV
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" style="height:27px;"/></a>
+## 📧&nbsp;Contact
 jaehyunlee789@gmail.com 
+## 🔧&nbsp;SKILLS
+<p>💡 Language</p>
+<div style="display:flex;">
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" style="height:27px;"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white" style="height:27px;"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/MicrosoftSQLServer-cc2927?style=flat-square&logo=MicrosoftSQLServer&logoColor=white" style="height:27px;"/></a>
+</div>
+&nbsp;
+&nbsp;
+<p>💡 Tools</p>
+<div style="display:flex;">
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/MicrosoftExcel-217346?style=flat-square&logo=MicrosoftExcel&logoColor=white" style="height:27px;"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white" style="height:27px;"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" style="height:27px;"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/MicrosoftPowerPoint-B7472A?style=flat-square&logo=MicrosoftPowerPoint&logoColor=white" style="height:27px;"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/GoogleAnalytics-E37400?style=flat-square&logo=GoogleAnalytics&logoColor=white" style="height:27px;"/></a>
+</div>
+&nbsp;
+&nbsp;
+<p>💡 IDE</p>
+<div>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white" style="height:27px;"/>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=white" style="height:27px;"/>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white" style="height:27px;"/>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white" style="height:27px;"/>
+</div>
