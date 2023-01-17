@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=000000&height=200&text=Welcome&desc=Jaehyun%20Lee's%20GitHub%20Profile&descAlign=60&descSize=23&&descAlignY=71&fontAlign=50&fontColor=BFFFFF)
 ## 📝&nbsp;CV
-<a href="https://www.notion.so/Jaehyun-Lee-2aa70541ba8f4a79a50fe7f223db71a1" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" style="height:27px;"/></a>
+<a href="https://shorthaired-owner-43a.notion.site/Jaehyun-Lee-2aa70541ba8f4a79a50fe7f223db71a1" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" style="height:27px;"/></a>
 ## 📧&nbsp;Contact
 jaehyunlee789@gmail.com 
 ## 🔧&nbsp;SKILLS
